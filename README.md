@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tjsutar
+- 👋 Hi, I’m @ Tushar sutar
 - 👀 I’m interested in ...Backend Developement
 - 🌱 I’m currently learning ...Backend developement
 - 💞️ I’m looking to collaborate on ...
