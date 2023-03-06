@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Tushar sutar
-- 👀 I’m interested in ...Backend Developement
-- 🌱 I’m currently learning ...Backend developement
+- 👀 I’m interested in ...Web Developement
+- 🌱 I’m currently learning ...Frontend developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sutartushar15@gmail.com
 
